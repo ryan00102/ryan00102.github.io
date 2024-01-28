@@ -3,14 +3,18 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "f92a675b2eead7d5f6f0a4a8b6d87823",
-"assets/AssetManifest.bin.json": "967e0441eddafccd5beec54e7aad96d8",
-"assets/AssetManifest.json": "7cc87e40c945d69924853ede72e4d0ff",
+const RESOURCES = {"assets/AssetManifest.bin": "28df1813c42435b58612ee1351dd7140",
+"assets/AssetManifest.bin.json": "25594821ef7fbcc53bd8b38b31749dd3",
+"assets/AssetManifest.json": "508ea86c06a0419672821e7e8204ffa8",
 "assets/assets/fonts/Inter-Regular.ttf": "ea5879884a95551632e9eb1bba5b2128",
 "assets/assets/images/background.png": "13539ce7bb1e62ea4d40ce031b15042d",
+"assets/assets/images/badge1.png": "d2cd1da7d5bea2bde36ec7ed48f033f3",
+"assets/assets/images/badge2.png": "56ec7a1184366aabcbb670cd752a8161",
+"assets/assets/images/badge3.png": "26e6ea65589c446d1b87eb343e6cf0fe",
 "assets/assets/images/brainy.png": "e251f1f910a6c93ceb6b3859ee09d29f",
 "assets/assets/images/calendar_non_check.png": "ff0f51f7676d02f3870e0542365e6a67",
 "assets/assets/images/Cathedral.png": "e62b5523a151ba15d49d90489294b7e1",
+"assets/assets/images/cloud.png": "61f489d5e0172b1a2f53f2eed7f9f02e",
 "assets/assets/images/Google__G__logo.png": "6d593268c691da1e1d9721ee4dbd213d",
 "assets/assets/images/home_icon.png": "b2d6b005de7fd69a679d75839a6bf3f9",
 "assets/assets/images/logo.png": "7f936ddaf189f10ea17c0f53a173f951",
@@ -19,6 +23,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "f92a675b2eead7d5f6f0a4a8b6d87823
 "assets/assets/images/logo3.png": "118571f2b2c7bde992502a4eef51648c",
 "assets/assets/images/logo_only.png": "a3448b07221a9a772888ca6ca91d1f2c",
 "assets/assets/images/play%25201.png": "baecc6ef2ecd7506b552c04db8b9bef8",
+"assets/assets/images/radio-waves.png": "151c3f326727e2d46cabca62775960e1",
 "assets/assets/images/records_icon.png": "6c2d240ffb154cea9a1c1e136678f16b",
 "assets/assets/images/settings_icon.png": "03aa402e76b7575742d31f658b577245",
 "assets/assets/images/space.png": "5eb80f2f64b012ba4fbf989d33e13e42",
@@ -45,9 +50,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "f92a675b2eead7d5f6f0a4a8b6d87823
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "73f164f3da92f16ff657a1c73c95fe32",
-"/": "73f164f3da92f16ff657a1c73c95fe32",
-"main.dart.js": "cb5ab326bd41d2b83b470effe002557d",
+"index.html": "647d71f74dafe99884f30d03a0102b2c",
+"/": "647d71f74dafe99884f30d03a0102b2c",
+"main.dart.js": "86dff8a10de9530a51e294efe691cd46",
 "manifest.json": "e3256ba4a2bb6d16a97c1f58ba0a83d7",
 "version.json": "d5afcda6fffa75f8e83ee01e37c4ba1f"};
 // The application shell files that are downloaded before a service worker can
